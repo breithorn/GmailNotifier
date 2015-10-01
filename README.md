@@ -1,4 +1,4 @@
-Java application that checks GMail and sends an SMS if there are new messages.
+Java application that checks Gmail and sends an SMS if there are new messages.
 
 Skype Java API is used for sending SMS.
 
