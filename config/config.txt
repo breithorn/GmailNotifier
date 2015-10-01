@@ -1,0 +1,30 @@
+; This is the configuration file for the Gmail SMS 
+; notification application.
+; Created by Carl Fredrik Abelson in 2008.
+
+[Gmail]
+; The username and password for your Gmail account
+username="???"
+password="???"
+
+; How often to check for new Gmail messages (in seconds)
+checkinterval=60
+
+[SMS]
+; If an SMS should be sent when a new Gmail message arrives
+; Valid values are "yes" and "no"
+enabled=yes
+
+; Max number of notification SMS to send per <i>day</i>.
+; Use this to limit your Skype phone bill.
+; For unlimited amount, use "inf"
+maxperday=10
+
+; Max number of notification SMS to send per <i>hour</i>.
+; Use this to limit your phone bill.
+; For unlimited amount, use "inf"
+maxperhour=5
+
+; Phone number to send the notification SMS to. Needs to be 
+; a number reachable from Skype.
+phonenumber="???"
