@@ -9,7 +9,6 @@ import org.apache.log4j.Logger;
 
 /**
  * Contains various constants for use in the Gmail notification application.
- * @author Carl Fredrik Abelson
  */
 public class Configuration
 {
