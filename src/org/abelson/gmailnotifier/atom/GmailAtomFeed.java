@@ -13,7 +13,6 @@ import org.w3c.dom.NodeList;
 
 /**
  * Handles Atom feeds from Gmail.
- * @author Carl Fredrik Abelson
  */
 public class GmailAtomFeed extends AtomFeed
 {
