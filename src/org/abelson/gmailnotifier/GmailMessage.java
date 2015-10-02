@@ -7,7 +7,6 @@ import org.w3c.dom.NodeList;
 
 /**
  * This class contains information about one Gmail message.
- * @author Carl Fredrik Abelson
  */
 public class GmailMessage
 {
