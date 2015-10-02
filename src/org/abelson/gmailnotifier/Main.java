@@ -12,7 +12,6 @@ import org.apache.log4j.Logger;
 /**
  * This class starts the Gmail notification service and runs its
  * main loop.
- * @author Carl Fredrik Abelson
  */
 public class Main
 {
