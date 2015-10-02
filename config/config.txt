@@ -1,6 +1,5 @@
 ; This is the configuration file for the Gmail SMS 
 ; notification application.
-; Created by Carl Fredrik Abelson in 2008.
 
 [Gmail]
 ; The username and password for your Gmail account
