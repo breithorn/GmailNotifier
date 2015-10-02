@@ -8,7 +8,6 @@ import org.abelson.gmailnotifier.Configuration;
 /**
  * This class provides the authentication necessary for accessing 
  * a Gmail Atom feed.  
- * @author Carl Fredrik Abelson
  */
 public class GmailAuthenticator extends Authenticator
 {
