@@ -14,7 +14,6 @@ import org.xml.sax.SAXException;
 
 /**
  * General class for handling Atom feeds.
- * @author Carl Fredrik Abelson
  */
 public class AtomFeed
 {
