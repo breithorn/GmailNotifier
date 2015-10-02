@@ -9,7 +9,6 @@ import org.apache.log4j.Logger;
 
 /**
  * This class sends a notification SMS for a new Gmail message.
- * @author Carl Fredrik Abelson
  */
 public abstract class SMSNotifier
 {
